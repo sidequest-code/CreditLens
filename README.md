@@ -15,7 +15,7 @@
 * **Automated Risk Scoring Engine:** Predicts live borrower default probabilities based on credit limits, repayment histories, and statement balances.
 * **Model Validation Metrics:** Computes out-of-sample performance metrics including **ROC-AUC scores** and detailed classification reports.
 * **Interactive MI Dashboard:** Built via Streamlit to enable real-time risk parameter stress-testing.
-* **Lightweight Architecture:** Optimized for low-footprint execution (<50MB total disk allocation, highly memory-efficient for 8GB RAM systems).
+* **Lightweight Architecture:** Optimized for low-footprint execution.
 
 ---
 
